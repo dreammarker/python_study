@@ -25,4 +25,6 @@ print(int(random()*45))
 print(int(random()*45))
 print(int(random()*45))
 print(int(random()*45))
-print(int(random()*45))
+print(int(random()*24)+4)
+date = int(random()*24)+4
+print("오프라인 스터디 모임 날짜는 매월 "+str(int(random()*24)+4)+" 일로 선정되었습니다");
